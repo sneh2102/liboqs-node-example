@@ -6,6 +6,8 @@ This repository contains an example of using the `liboqs-node` library for key e
 
 Before running the example, ensure you have the following installed:
 
+- Ubuntu Linux 20.04.6
+- Python 3
 - Node.js (version 14 or higher)
 - npm (Node Package Manager)
 - Git
@@ -36,4 +38,21 @@ To install the built library, run:
 
 ```bash
 ninja install
+```
+### 3. Clone Example code 
+
+```
+git clone https://github.com/sneh2102/liboqs-node-example.git
+cd liboqs-node-example.
+```
+
+Install all the dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the Code
+```bash
+node Kems.js
 ```

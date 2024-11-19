@@ -1,0 +1,15 @@
+{
+  "name": "liboq-example",
+  "version": "1.0.0",
+  "main": "Kems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "liboqs-node": "^0.1.0"
+  }
+}

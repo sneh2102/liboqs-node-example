@@ -1,1 +1,6 @@
 /node_modules
+
+/Kyber512/node_modules
+/Kyber768/node_modules
+/Kyber1024/node_modules
+/liboqs-node/node_modules

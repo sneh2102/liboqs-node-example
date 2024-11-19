@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "memory": "cpp",
+        "cstdint": "cpp",
+        "oqs.h": "c",
+        "rand.h": "c",
+        "kem_frodokem.h": "c",
+        "sig.h": "c"
+    }
+}
